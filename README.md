@@ -1,4 +1,4 @@
-# https://seir.in
+# http://www.soxlola.xyz:5000
 我的个人主页作品
 
 如果你喜欢，可以fork到你的仓库里改改自己用~
